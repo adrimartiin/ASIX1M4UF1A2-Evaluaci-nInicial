@@ -20,3 +20,17 @@
 |Google Calendar|![Imagen calendario](https://github.com/adrimartiin/ASIX1M4UF1A2-Evaluaci-nInicial/blob/main/calendario.png)|
 |Google Meet|![Imagen PC](https://github.com/adrimartiin/ASIX1M4UF1A2-Evaluaci-nInicial/blob/main/pc.png)|
 |...|...|
+
+6. ¿Que es HTML?
+
+<!DOCTYPE html>
+<html>
+<head>
+    <h1>HTML Ev Inicial</h1>
+</head>
+</html>
+
+7. ¿Que es CSS?
+
+8. FLujo de trabajo (navegador, petición, servidor y respuesta:)
+![Imagen flujo de trabajo](https://github.com/adrimartiin/ASIX1M4UF1A2-Evaluaci-nInicial/blob/main/flujo_trabajo.png)
